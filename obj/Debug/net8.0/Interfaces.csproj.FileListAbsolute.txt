@@ -1,0 +1,15 @@
+/home/voodoo_child/Documents/GitProjects/Interfaces/bin/Debug/net8.0/Interfaces
+/home/voodoo_child/Documents/GitProjects/Interfaces/bin/Debug/net8.0/Interfaces.deps.json
+/home/voodoo_child/Documents/GitProjects/Interfaces/bin/Debug/net8.0/Interfaces.runtimeconfig.json
+/home/voodoo_child/Documents/GitProjects/Interfaces/bin/Debug/net8.0/Interfaces.dll
+/home/voodoo_child/Documents/GitProjects/Interfaces/bin/Debug/net8.0/Interfaces.pdb
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfoInputs.cache
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.AssemblyInfo.cs
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.csproj.CoreCompileInputs.cache
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.sourcelink.json
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.dll
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/refint/Interfaces.dll
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.pdb
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/Interfaces.genruntimeconfig.cache
+/home/voodoo_child/Documents/GitProjects/Interfaces/obj/Debug/net8.0/ref/Interfaces.dll
